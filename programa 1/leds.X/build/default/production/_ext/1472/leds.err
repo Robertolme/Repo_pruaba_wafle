@@ -1,0 +1,2 @@
+Warning[205] ..\LEDS.ASM 96 : Found directive in column 1. (ORG)
+Warning[203] ..\LEDS.ASM 97 : Found opcode in column 1. (goto)
